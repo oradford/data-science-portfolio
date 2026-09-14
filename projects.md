@@ -2,4 +2,4 @@
 This section will document my data science projects, research questions, and data stories I created throughout the semester.
 ---
 ## Project 1
-Analyzing Data in Baseball
+Analyzing Data in Soccer
