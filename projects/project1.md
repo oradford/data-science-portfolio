@@ -4,6 +4,11 @@ Obviously, if a team scores more goals in a match they will win the game. Howeve
 The number of wins will be determined by looking at wins, losses, and ties out of the 38 games they play. Wins will be analyzed by looking at how many games the team wins at the end of the season. 
 The number of goals will be determined by adding together how many goals the team scores each game. These would be found in the stats as "Goals For" or "GF". 
 
+Ethics and Limitations: Includes a section reflecting on dataset limitations, missing context, potential biases, and unanswered questions.
+
+Underlying Code: https://www.thesportsdb.com/
+AI Usage Disclosure: 
+Google Gemini was used in order to help debug sections of the code. All functions were manually validated trhough testing.  
 
 References: 
 TheSportsDB (2024). English Premier League 2023–2024 season lookup table. TheSportsDB REST API. https://www.thesportsdb.com/api/v1/json/3/lookuptable.php?l=4328&s=2023-2024
