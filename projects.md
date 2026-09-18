@@ -7,6 +7,10 @@ Analyzing Data in Soccer - Do goals scored actually equate to wins?
 Obviously, if a team scores more goals in a match they will win the game. However, this does not always result in season success. For example, Chelsea scored 6 goals in their match a few weeks ago, which is more than some teams have scored all season. Does this mean they will have more team success? The number of wins will be determined by looking at wins, losses, and ties out of the 38 games they play. Wins will be analyzed by looking at how many games the team wins at the end of the season. The number of goals will be determined by adding together how many goals the team scores each game. These would be found in the stats as "Goals For" or "GF".
 
 Code and Visualizations: https://github.com/oradford/data-science-portfolio/blob/main/projects/DTSC%20Project.ipynb
+<img width="540" height="467" alt="image" src="https://github.com/user-attachments/assets/feace4af-82ac-44a8-b7ac-2646d7f4b173" />
+<img width="532" height="391" alt="image" src="https://github.com/user-attachments/assets/b4290bc7-52ec-4164-8074-56e5c72cdff4" />
+
+
 
 Results Explained: Looking at the first figure, we can see that the top teams in the league did in fact score the most goals. In the second figure we can see that there is a positive correlation between wins and goals scored. The data ultimately shows that there is a strong positive correlation between the amount of goals a team scores in a season and the amount of games a team wins in a season. In conclusion, we can assume that, if Chelsea continues to be one of the highest scoring teams in the Premier League, they will win a good percentage of their games and be one of the best teams in the league.
 
