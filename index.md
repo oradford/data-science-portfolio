@@ -9,4 +9,4 @@ This website will document my learning and projects throughout the semester.
 - [Blog](blog.md)
 - [Projects](projects.md)
 - [Resume](Resume.pdf)
-- [LinkedIn](LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/owen-radford-781614386/)
