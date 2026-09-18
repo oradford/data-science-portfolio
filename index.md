@@ -8,3 +8,5 @@ This website will document my learning and projects throughout the semester.
 ## Portfolio
 - [Blog](blog.md)
 - [Projects](projects.md)
+- [Projects](Resume.pdf)
+- [Projects](LinkedIn)
