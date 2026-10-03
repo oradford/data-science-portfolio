@@ -19,3 +19,8 @@ Ethics and Limitations: This dataset is limited because of the fact that I could
 Underlying Code: https://www.thesportsdb.com/ AI Usage Disclosure: Google Gemini was used in order to help debug sections of the code. Gemini was also used in order to help find the dataset. All functions were manually validated through testing.
 
 References: TheSportsDB (2024). English Premier League 2023–2024 season lookup table. TheSportsDB REST API. https://www.thesportsdb.com/api/v1/json/3/lookuptable.php?l=4328&s=2023-2024 Sports Reference LLC. (2024). 2023–2024 Premier League stats. FBref. https://fbref.com/en/comps/9/2023-2024/2023-2024-Premier-League-Stats?utm_source=chatgpt.com Google. (2026). Gemini. https://gemini.google.com/
+
+---
+## Project 2
+Cam Ward Career Analyzation - Is he as bad as people think?
+
