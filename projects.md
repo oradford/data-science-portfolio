@@ -36,11 +36,9 @@ Code and Vizualizations - [[DTSC Project2.ipynb](https://github.com/oradford/dat
 
 <img width="576" height="453" alt="image" src="https://github.com/user-attachments/assets/f463364d-57a8-4d72-87c9-f9dbe15e5b2a" />
 
-Reflection, Ethics and Limitations: The project discusses relevant limitations, possible sources of bias,
-the consequences of incorrect predictions, and considerations surrounding the model’s
-potential real-world use.
-[ ] Code and AI Transparency: Links directly to the underlying code (such as a GitHub repository
-or Jupyter Notebook) and contains a citations and AI usage disclosure section.
+Ultimately, it is hard to determine if Cam Ward will be successful in the league with just these stats and a limited amount of time. There are not many big consequences of incorrect predictions. I could predict that he is going to improve this season and be a good player in the league and be wrong, but that doesn't mean much. Where this could be an issue is if I predict that he is going to be a good player so the management pays him a lot of money and then he is bad and is a waste of money. If I predict that he will be bad and he is good, he is being significantly underpaid and could request a trade or sign with another team. A big source of bias that could come into play is that I am a big Cam Ward fan, so I am always going to try to jump to his defense. In the end, Cam Ward is predicted to be a good player and is expected to have a passer rating six points better than he did last season. However, if you look at his current stats, he is sitting at only about an 81, which is around one point better. Additionally, if you look wider scope, Patrick Mahomes was one of the analyzed quarterbacks and his passer rating went down almost 9 points between his first and second year, showing that people should judge Cam Ward a lot less as even the best players struggle early on. 
+
+AI Usage Disclosure: Google Gemini was used in order to help debug sections of the code and to help understand what certain questions were asking. Gemini was also used in order to generate random quarterbacks in the last 10 years. All functions were manually validated through testing.
 
 
 References: 
