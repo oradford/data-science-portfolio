@@ -30,8 +30,8 @@ In this project, I set to find out if the performance of the team is actually a 
 
 To begin working with the dataset, I immediately added a new column in the dataset that is titled "Class". This column is so that I could look at each player and determine if they had improved from season one to season two. If they improved, they received a one and if they did not improve or got worse, they received a 0. Additionally, I added another column titled "Amount", that determined how much that players passer rating improved or decreased from year one to year two. You can see how many of each classification there were and the average change that class had. 
 
-Code and Vizualizations - [[[[DTSC Project2.ipynb](https://github.com/oradford/data-science-portfolio/blob/c5ffe6f1cb08bbce564fa329d1dfb12f026b05aa/DTSC%20Project2.ipynb)]]]
-
+Code and Vizualizations - [[[[[DTSC Project2.ipynb](https://github.com/oradford/data-science-portfolio/blob/c5ffe6f1cb08bbce564fa329d1dfb12f026b05aa/DTSC%20Project2.ipynb)]]]
+](https://github.com/oradford/data-science-portfolio/blob/6e00240029958c26f3e87b0ce99cd04cf7f6ef01/DTSC%20Project2.ipynb)
 
 <img width="576" height="453" alt="image" src="https://github.com/user-attachments/assets/f463364d-57a8-4d72-87c9-f9dbe15e5b2a" />
 
