@@ -28,7 +28,7 @@ Cam Ward began his college football career as an unranked 0-star quarterback pla
 
 In this project, I set to find out if the performance of the team is actually a reflection of Ward's abilities or if he is a product of his surroundings. My variables are coach win %, drop %, accurate pass %, pressure %, and blitzed %. This project would be a classification because the variables are discrete or countable, rather than continuous. The source of my dataset is Pro Football Reference. Win % is the percentage of games that the team wins when Robert Saleh is coaching, drop % is the percentage of passes that Cam Ward’s receivers drop, accurate pass % is the percentage of passes that are on target. Additionally, pressure % is how often he is under pressure on a throw and blitzed % is how frequently the quarterback is sent extra pressure (more than 4 rushers). The dataset is roughly 40 quarterbacks and about 50 stats per quarterback, however the missing values are from this year as there are not enough stats from this season to prevent outliers. I will only be using stats from Ward's rookie season. 
 
-Code and Vizualizations - DTSC Project2.ipynb
+Code and Vizualizations - [DTSC Project2.ipynb](https://github.com/oradford/data-science-portfolio/blob/c5ffe6f1cb08bbce564fa329d1dfb12f026b05aa/DTSC%20Project2.ipynb)
 
 References: 
 https://heavy.com/sports/nfl/tennessee-titans/titans-cam-ward-brutal-reality-check-reporter/
