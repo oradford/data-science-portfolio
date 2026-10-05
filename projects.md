@@ -36,6 +36,12 @@ Code and Vizualizations - [[DTSC Project2.ipynb](https://github.com/oradford/dat
 
 <img width="576" height="453" alt="image" src="https://github.com/user-attachments/assets/f463364d-57a8-4d72-87c9-f9dbe15e5b2a" />
 
+Reflection, Ethics and Limitations: The project discusses relevant limitations, possible sources of bias,
+the consequences of incorrect predictions, and considerations surrounding the model’s
+potential real-world use.
+[ ] Code and AI Transparency: Links directly to the underlying code (such as a GitHub repository
+or Jupyter Notebook) and contains a citations and AI usage disclosure section.
+
 
 References: 
 Halkias, A. G., II. (2026, September 17). Titans QB Cam Ward gets brutal reality check from reporter after bold claim. Heavy. https://heavy.com/sports/nfl/tennessee-titans/titans-cam-ward-brutal-reality-check-reporter/
